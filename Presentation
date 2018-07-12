@@ -1,0 +1,7 @@
+Hello dear, this space has all the information about the design of a light reflectivity analyzer on flat surfaces. 
+Using the Arduino as data acquisition board and control of the light source. 
+All interaction will occur through the use of the Arduino serial port.
+
+The presentation used in GIREP 2018 is obtained by the following link
+
+https://prezi.com/view/efRxbnh624ISvaDW6nJD/
